@@ -1,6 +1,6 @@
 # Pelican Clean Blog Theme
 
-Theme based in [Clean Blog layout](http://ironsummitmedia.github.io/startbootstrap-clean-blog/).
+Theme based in [Clean Blog layout](https://ironsummitmedia.github.io/startbootstrap-clean-blog/).
 
 ## Screenshot
 
@@ -184,8 +184,8 @@ Slug: my-super-post
 Authors: Alexis Metaireau, Conan Doyle
 Summary: Short version for index and feeds
 Header_Cover: /images/posts/super-title/cover.png
-Og_Image: http://example.com/facebook_cover.png
-Twitter_Image: http://example.com/twitter_cover.png
+Og_Image: https://example.com/facebook_cover.png
+Twitter_Image: https://example.com/twitter_cover.png
 
 This is the content of my super blog post.
 ```
